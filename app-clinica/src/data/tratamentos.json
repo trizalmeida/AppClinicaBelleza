@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "nome": "Peeling de Diamante",
+    "descricao": "Renovação celular profunda que suaviza manchas, linhas finas e devolve o viço natural da pele.",
+    "preco": 280.0,
+    "duracao": 60,
+    "categoria": "Facial",
+    "imagem": "https://images.pexels.com/photos/10192208/pexels-photo-10192208.jpeg"
+  },
+  {
+    "id": "2",
+    "nome": "Drenagem Linfática VIP",
+    "descricao": "Técnica exclusiva para redução de inchaço, eliminação de toxinas e estímulo da circulação.",
+    "preco": 220.0,
+    "duracao": 50,
+    "categoria": "Corporal",
+    "imagem": "https://images.pexels.com/photos/3865792/pexels-photo-3865792.jpeg"
+  },
+  {
+    "id": "3",
+    "nome": "Harmonização Facial",
+    "descricao": "Procedimento minucioso para realçar os contornos faciais com elegância e naturalidade.",
+    "preco": 1200.0,
+    "duracao": 90,
+    "categoria": "Estético",
+    "imagem": "https://images.pexels.com/photos/4586709/pexels-photo-4586709.jpeg"
+  }
+]
